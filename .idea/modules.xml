@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstStart.iml" filepath="$PROJECT_DIR$/FirstStart.iml" />
+      <module fileurl="file://C:/Projects/Yota_B2B/Data/Infa/Java_Lesson/Java_Lessons/Java_Challenge_/Java_Challenge_.iml" filepath="C:/Projects/Yota_B2B/Data/Infa/Java_Lesson/Java_Lessons/Java_Challenge_/Java_Challenge_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondProgramm/SecondProgramm.iml" filepath="$PROJECT_DIR$/SecondProgramm/SecondProgramm.iml" />
+    </modules>
+  </component>
+</project>
