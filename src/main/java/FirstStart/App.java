@@ -23,6 +23,14 @@ public class App
         Point_2 p4 = new Point_2( 4,3, 4, -3);
 
         System.out.println("Distance (with method) between two points is :" + p4.distance());
+
+         //4-й пункт переделанный вариант, для решения задачи был создан класс Point_3
+         Point_3 a= new Point_3(4,3);
+         Point_3 b= new Point_3(4,-3);
+         double dist2 = a.distance(b);
+
+        System.out.println("Distance (with method corrected ) between two points is :" + dist2);
+
     }
        public static void distance(Point p1,Point p2)
     {
